@@ -28,11 +28,11 @@ First I had a look at the dataset. There are three different files give:
 
 Other files are:
 
-    workspace.ipny:        Jupyter notebook containing the code.
+    Starbucks_Capstone_notebook.ipynb:	Jupyter notebook containing the code.
     
-    ready_dataset.pkl:     pickle file of data saved for ml model.
+    ready_dataset.pkl:     				pickle file of data saved for ml model.
     
-    statistical_data.pkl:  pickle file of dataset for statistical approach
+    statistical_data.pkl:  				pickle file of dataset for statistical approach
 
   
 
